@@ -1,4 +1,4 @@
-# ! /bin/bash
+#!/bin/bash
 # Programa para ejemplificar el paso de argumentos
 
 nombreCurso=$1

@@ -1,4 +1,4 @@
-# ! /bin/bash
+#!/bin/bash
 # Programa para revisar los tipos de operadores
 # Autor: Emerson YR - emerson@yr.com
 
